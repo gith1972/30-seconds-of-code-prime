@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "command": "./node_modules/.bin/astro dev",
-      "name": "Development server",
-      "request": "launch",
-      "type": "node-terminal"
+     { s this like the vs studio or visual something like that }
+py=(ar=1+2+3+)
+input(ar)
+print("hellow world")
     }
   ]
 }
