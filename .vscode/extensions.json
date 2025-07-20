@@ -2,3 +2,7 @@
   "recommendations": ["astro-build.astro-vscode", "ban.spellright"],
   "unwantedRecommendations": []
 }
+{ s this like the vs studio or visual something like that }
+py=(ar=1+2+3+)
+input(ar)
+print("hellow world")
