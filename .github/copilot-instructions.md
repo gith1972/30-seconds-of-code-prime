@@ -10,7 +10,7 @@
 - When importing files or modules, use relative paths, if on the same directory or if the nesting is not too deep. Otherwise, use absolute paths. Always use the `.js` extension for JavaScript files.
 - Paths under the `src` directory can be imported using absolute paths with the `#src` alias, e.g. `import { myFunction } from '#src/utils/myFunction.js';`. Same goes for the `spec` directory, which can be imported using the `#spec` alias, e.g. `import { myTest } from '#spec/utils/myTest.js';`.
 
-# Markdown
+# Markdown ok note it
 
 When generating text in Markdown format, follow these additional guidelines:
 
