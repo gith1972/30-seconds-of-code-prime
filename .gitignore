@@ -137,7 +137,7 @@ dist/
 content/data
 public/sitemap.xml
 public/feed.xml
-public/chirp.json
+public/chirp.jsonrp
 public/search-data.json
 public/_redirects
 public/components
@@ -147,7 +147,8 @@ snippet.png
 imported/
 
 # Storage (SQLite databases)
-/storage/*
+/storage/* mysql
+database= (1.2.3.4.5)
 
 # Master key for decrypting credentials
 /config/master.key
